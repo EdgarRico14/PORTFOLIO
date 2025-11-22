@@ -391,11 +391,12 @@ footer{
     color: #667eea;
     margin-bottom: 0;
     text-align: center;
-    padding: 20px 0;
-    position: relative;
+    padding: 4px 0;
+    position: sticky;
     bottom: 0;
     width: 100%;
     box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.1);
+    margin-top: 30px;
 }
 
 #my-future > h1 {
